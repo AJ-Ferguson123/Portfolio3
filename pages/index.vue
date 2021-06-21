@@ -2,15 +2,12 @@
   <div class="home-container">
     <div class="u-full-width">
       <h1 class="site-title">
-          <!-- Define Custom Site title or completely change the page -->
-          nuxt<span class="txt-color"> static </span>skeleton
+          AJF<span class="txt-color"> static </span>Portfolio
       </h1>
-      <p>
-        Starter template For My Portfolio
-      </p>
-      <a class="no-highlighter" href="https://github.com/gms64/nuxt-static-skeleton" target="_blank">
-        <button class="button-primary">
-          See the Repo
+       <a class="no-highlighter" href="https://github.com/AJ-Ferguson123/portfolio3" target="_blank">
+       <div class="glitch" data-text="Portfolio">Glitch in The Portfolio</div>
+        <button class=" repo button-primary">
+          See the Repo's
         </button>
       </a>
 

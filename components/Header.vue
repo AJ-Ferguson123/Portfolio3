@@ -1,8 +1,7 @@
 <template>
     <header class="header">
       <nuxt-link to="/" class="logo">
-        <!-- Update your site logo text -->
-        nss
+        AJF
       </nuxt-link>
       <input class="menu-btn" type="checkbox" id="menu-btn" v-model="menuChecked"/>
       <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>

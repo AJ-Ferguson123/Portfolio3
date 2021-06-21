@@ -5,7 +5,7 @@ summary: Another post in a series of test posts
 seo_desc: Another post in a series of test posts - SEO Version
 date: 2020-08-16T03:17:57.500Z
 ---
-### JSum Text Placeholder
+### JS... um Text Placeholder
 
 
 
