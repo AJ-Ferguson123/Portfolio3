@@ -7,7 +7,7 @@ date: 2020-08-15T03:17:57.500Z
 ---
 ### This is a title
 
-Text courtesy of: https://jeffsum.com/
+Text is the provider
 
 Since you dont want to read more lorem ipsum
 

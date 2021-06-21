@@ -7,7 +7,7 @@ date: 2020-08-10T03:17:57.500Z
 ---
 ### Subtitle
 
-Text courtesy of: https://jeffsum.com/
+Text courtesy of: Cal The Man
 
 Since you dont want to read more lorem ipsum
 

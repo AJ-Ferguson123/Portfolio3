@@ -5,11 +5,9 @@ summary: Another post in a series of test posts
 seo_desc: Another post in a series of test posts - SEO Version
 date: 2020-08-16T03:17:57.500Z
 ---
-### JeffSum Text Placeholder
+### JSum Text Placeholder
 
 
-
-Text courtesy of: https://jeffsum.com/
 
 Since you dont want to read more lorem ipsum
 

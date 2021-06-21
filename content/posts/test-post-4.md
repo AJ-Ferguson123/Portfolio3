@@ -7,9 +7,6 @@ date: 2020-08-13T03:17:57.500Z
 ---
 ### Text
 
-Text courtesy of: https://jeffsum.com/
-
-Since you dont want to read more lorem ipsum
 
 God creates dinosaurs. God destroys dinosaurs. God creates Man. Man destroys God. Man creates Dinosaurs. Do you have any idea how long it takes those cups to decompose. I was part of something special. Forget the fat lady! You're obsessed with the fat lady! Drive us out of here!
 

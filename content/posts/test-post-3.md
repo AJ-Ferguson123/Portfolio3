@@ -7,7 +7,6 @@ date: 2020-08-12T03:17:57.500Z
 ---
 ### Subtitle
 
-Text courtesy of: https://jeffsum.com/
 
 Since you dont want to read more lorem ipsum
 

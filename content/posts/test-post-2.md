@@ -7,7 +7,7 @@ date: 2020-08-11T03:17:57.500Z
 ---
 ### Text and stuff
 
-Text courtesy of: https://jeffsum.com/
+Text courtesy of: Elsa
 
 Since you dont want to read more lorem ipsum
 
