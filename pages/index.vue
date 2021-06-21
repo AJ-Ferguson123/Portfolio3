@@ -6,7 +6,7 @@
           nuxt<span class="txt-color"> static </span>skeleton
       </h1>
       <p>
-        Starter Template for a Nuxt-based Blog
+        Starter template For My Portfolio
       </p>
       <a class="no-highlighter" href="https://github.com/gms64/nuxt-static-skeleton" target="_blank">
         <button class="button-primary">
