@@ -1,14 +1,12 @@
 ---
 title: about
 seo_title: About
-preview: Nuxt Static Skeleton - a Nuxt + Netlify combination for creating static
+preview: Nuxt Static Portfolio - a Nuxt + Netlify combination for creating static
   websites
-seo_desc: Nuxt Static Skeleton - a Nuxt + Netlify combination for creating
+seo_desc: Nuxt Static Portfolio - a Nuxt + Netlify combination for creating
   static websites
 ---
-# Nuxt Static Skeleton.
-
-Skeleton project for creating a blog with Nuxt-Content and Netlify CMS.
+# Nuxt Static Portfolio.
 
 ## What the project includes
 
