@@ -5,7 +5,7 @@
           AJF<span class="txt-color"> static </span>Portfolio
       </h1>
        <a class="no-highlighter" href="https://github.com/AJ-Ferguson123/portfolio3" target="_blank">
-       <div class="glitch" data-text="Portfolio">Glitch in The Portfolio</div>
+       <div class="glitch" data-text="Portfolio">Portfolio</div>
         <button class=" repo button-primary">
           See the Repo's
         </button>

@@ -1,8 +1,8 @@
 {
   "name": "nuxt-static-skeleton",
   "version": "0.0.1",
-  "description": "Skeleton Nuxt Project using nuxt-content and netlify CMS",
-  "author": "Greg",
+  "description": "Nuxt Portfolio using nuxt-content and netlify CMS",
+  "author": "Aaron",
   "private": true,
   "scripts": {
     "dev": "nuxt",

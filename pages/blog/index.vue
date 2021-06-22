@@ -1,6 +1,6 @@
 <template>
   <div class="container-fluid">
-    <h1 class="m20">blog</h1>
+    <h1 class="m20">projects</h1>
     <hr>
     <div v-for="article of articles" :key="article.slug">
         <h3 class="mb10">
