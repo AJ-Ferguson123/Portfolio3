@@ -12,7 +12,6 @@
       </a>
 
     </div>
-    <!-- This is used to load the netlify identity widget so you can use Netlify CMS -->
     <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </div>
 </template>

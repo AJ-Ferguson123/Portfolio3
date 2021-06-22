@@ -505,8 +505,6 @@
   top: 0;
 }
 
-/* 48em = 768px */
-
 @media (min-width: 48em) {
   .header li {
     float: left;
@@ -546,7 +544,6 @@ footer {
   min-height: 85vh;
 }
 
-
 .main-content a, .highlighter {
   background: linear-gradient(180deg, rgba(255,255,255,0) 65%, var(--underline-color) 65%);
 }
@@ -554,6 +551,7 @@ footer {
   background: linear-gradient(180deg, rgba(255,255,255,0) 65%, var(--underline-color) 65%);
 }
 .site-title {
+  margin-bottom: 13vh;
   color: var(--color-primary);
   font-family: 'Rajdhani', sans-serif;
 }

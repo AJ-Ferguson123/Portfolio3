@@ -1,9 +1,3 @@
-/* 
-Here are some custom CSS Styles that are currently being used by the application
-You can change / add any elements here
-*/
-
-
 .title-area {
     padding-top: 30px;
     padding-bottom: 10px;
@@ -30,7 +24,6 @@ You can change / add any elements here
   margin-top: 20px;
 }
 
-
 .home-container {
   margin: 0 auto;
   min-height: 100vh;
@@ -44,9 +37,6 @@ You can change / add any elements here
   min-height: 200px;
 }
 
-
-/* Filters to change SVG Icons to Theme Colors */
-/* Using the magic of: https://codepen.io/sosuke/pen/Pjoqqp */
 .icon-filter {
   filter: invert(18%) sepia(46%) saturate(418%) hue-rotate(163deg) brightness(94%) contrast(94%);
 }
@@ -55,14 +45,11 @@ You can change / add any elements here
   filter: invert(99%) sepia(88%) saturate(30%) hue-rotate(178deg) brightness(113%) contrast(91%);
 }
 
-/* Minor change to work with Flexbox grid */
 .main-content .container,
 .main-content .container-fluid {
   max-width: 1000px;
 }
 
-
-/* Page Transitions - 0.4s Slide/Fade */
 .page-enter-active,
 .page-leave-active {
   transition-duration: 0.4s;
@@ -95,6 +82,7 @@ You can change / add any elements here
   line-height: 1.2;
   transform:scale(2, 4);
 } 
+
 .glitch::before,
 .glitch::after{
   position:absolute;
@@ -105,16 +93,19 @@ You can change / add any elements here
   clip:rect(0,0,0,0);
   width:100%;
 }
+
 .glitch::before{
   animation:glitch-2 3s 500 linear alternate-reverse;
   left:-2px;
   text-shadow: 1px 0 #fbe601, 2px 0 #eb3406;
 }
+
 .glitch::after{
   animation:glitch-1 2s 500 linear alternate-reverse;
   left:2px;
   text-shadow: 1px 0 #63c3ea, 2px 0 #2b30d1;
 }
+
 @-webkit-keyframes glitch-1 {
   0% {
     clip: rect(25px, 600px, 4px, 0);
@@ -171,6 +162,7 @@ You can change / add any elements here
     clip: rect(45px, 600px, 21px, 0);
   }
 }
+
 @keyframes glitch-1 {
   0% {
     clip: rect(25px, 600px, 4px, 0);
@@ -227,6 +219,7 @@ You can change / add any elements here
     clip: rect(45px, 600px, 21px, 0);
   }
 }
+
 @-webkit-keyframes glitch-2 {
   0% {
     clip: rect(8px, 600px, 50px, 0);
@@ -283,6 +276,7 @@ You can change / add any elements here
     clip: rect(30px, 600px, 25px, 0);
   }
 }
+
 @-keyframes glitch-2 {
   0% {
     clip: rect(8px, 600px, 50px, 0);
