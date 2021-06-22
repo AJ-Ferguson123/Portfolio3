@@ -43,7 +43,7 @@ Built with:
 - [illlustrations](https://illlustrations.co/)
 - A few other packages
 
-## How to set up your own blog using this as a template
+## How to set up your own blog or portfolio using this as a template
 
 *To Do*
 

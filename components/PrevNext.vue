@@ -1,6 +1,6 @@
 <template>
 <div>
-  <!-- Pagination for individual blog posts -->
+  <!-- Pagination for individual project posts -->
   <hr class="mb0">
   <div class="row between-xs m20">
     <div class="col-xs-6 start-xs">

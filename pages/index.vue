@@ -25,7 +25,7 @@ export default {
       meta: [
       { hid: 'description',
       name: 'description',
-      content: 'A website created with Nuxt Static Skeleton' }
+      content: 'A website created with Nuxt' }
       ]
     };
   },

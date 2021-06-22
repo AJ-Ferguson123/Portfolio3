@@ -10,7 +10,7 @@
         </h3>
         <p><em>{{ (article.date || article.createdAt) | moment("MMMM Do, YYYY") }}</em></p>
         <p>{{ article.summary }}</p>
-        <p><NuxtLink :to="{ name: 'blog-slug', params: { slug: article.slug } }">Read More</NuxtLink></p>
+        <p><NuxtLink :to="{ name: 'blog-slug', params: { slug: article.slug } }">More</NuxtLink></p>
         <br>
     </div>
     <PrevNextPg :prevPg="prevPg" :nextPg="nextPg"/>
