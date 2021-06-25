@@ -1,26 +1,21 @@
 ---
-title: Test Post 3
-seo_title: Test Post 3 - SEO Version
-summary: First post in a series of test post
-seo_desc: First post in a series of test post - SEO Version
+title:  HeroMatch
+seo_title:  Project 3 - SEO Version
+summary: First Project in a series of test Project
+seo_desc: First Project in a series of test Project - SEO Version
 date: 2020-08-12T03:17:57.500Z
 ---
-### Subtitle
+### [Link](https://github.com/hakimsmith/HeroMatch)
 
 
-Since you dont want to read more lorem ipsum
-
-God creates dinosaurs. God destroys dinosaurs. God creates Man. Man destroys God. Man creates Dinosaurs. Do you have any idea how long it takes those cups to decompose. I was part of something special. Forget the fat lady! You're obsessed with the fat lady! Drive us out of here!
-
-Eventually, you do plan to have dinosaurs on your dinosaur tour, right? Just my luck, no ice. Checkmate... Yes, Yes, without the oops! Is this my espresso machine? Wh-what is-h-how did you get my espresso machine? This thing comes fully loaded. AM/FM radio, reclining bucket seats, and... power windows.
+The last group project for class is displayed here
 
 
-    Did he just throw my cat out of the window? 
-    Hey, you know how I'm, like, always trying to save the planet? 
-    Here's my chance. 
-    Yeah, but your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should. 
-    God creates dinosaurs. 
-    God destroys dinosaurs. 
+    We completed this project in the end of August 2019 to display 
+    the best way for new gamers to find what character best suits their needs as new gamers. 
+    Most of what I completed was to showcase @keyframes to produce the carousel. 
+     
+    God creates the gaming industry. 
     God creates Man. 
     Man destroys God. 
-    Man creates Dinosaurs.
+    Man creates the gaming industry.
