@@ -2,10 +2,6 @@
 
 Skeleton project for creating a blog with Nuxt-Content and Netlify CMS.
 
-Examples:
-- Project Site: https://nuxt-static-skeleton.netlify.app/
-- [greg on data](https://gregondata.com/) - personal site of the developer
-
 
 ## What the project includes
 
